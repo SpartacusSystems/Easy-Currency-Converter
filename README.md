@@ -11,6 +11,7 @@ Description:
 Easy Currency Converter is a simple Python program designed to convert a specified amount of one currency to another. The application uses the ExchangeRate API to get currency codes and rates. The program can be used by anyone who needs to do currency conversions such as forex traders, cryptocurrency traders, money changers and anyone who needs to do currency conversions.
 
 How to Use:
+- Get API Key from https://exchangerate-api.com/
 - Download main.py
 - Install the needed libraries - os, sys and requests
 - Run main.py in a python interpreter.
